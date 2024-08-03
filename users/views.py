@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from users.shemas import CreateUser
+from users.schemas import CreateUser
 from users import crud
 
 
